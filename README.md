@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://pradeepta037.github.io/resume/) 
+[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://pradeepta037.github.io/PersonalPortfolio/) 
 <h1 align="center">Hi 👋, I'm Pradeepta Kumar Sahoo</h1>
 <h3 align="center">A passionate Full-Stack developer as well as Data Science Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://pradeepta037.github.io/resume/](https://pradeepta037.github.io/resume/)
+- 👨‍💻 All of my projects are available at [https://pradeepta037.github.io/resume/](https://pradeepta037.github.io/PersonalPortfolio/)
 
 - 💬 Ask me about **Python, Java, Machine Learning, Data Analysis**
 
